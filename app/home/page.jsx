@@ -1,12 +1,8 @@
 import React from 'react'
-import Movies from './components/Movies'
 
 const page = () => {
   return (
-    <>
-    <Movies/>
-    
-    </>
+    <div>Home route</div>
   )
 }
 
